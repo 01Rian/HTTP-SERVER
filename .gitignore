@@ -1,0 +1,51 @@
+# Arquivos de compilação
+*.o
+*.out
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Arquivos temporários
+*.tmp
+*.temp
+*~
+.*.swp
+.*.swo
+
+# Diretórios de build
+build/
+bin/
+obj/
+Debug/
+Release/
+
+# Arquivos específicos do IDE/Editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Arquivos de dependências e bibliotecas
+lib/
+vendor/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de log e dados
+*.log
+*.dat
+
+# Arquivos de configuração local
+config.local.h
+settings.local.ini
+
+# Arquivos de documentação gerados
+docs/generated/
+
+# Arquivos específicos do projeto
+ROADMAP.MD
+TODO.md
+NOTES.md
